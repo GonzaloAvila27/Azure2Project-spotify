@@ -266,7 +266,7 @@
 														"value": "@concat(item().table, '_cdc')\n",
 														"type": "Expression"
 													},
-													"file": "empty.JSON"
+													"file": "empty.json"
 												}
 											}
 										],
