@@ -236,7 +236,11 @@
 							"outputs": [
 								{
 									"referenceName": "Json_dinamic",
-									"type": "DatasetReference"
+									"type": "DatasetReference",
+									"parameters": {
+										"container": "bronze",
+										"folder": "d"
+									}
 								}
 							]
 						},
