@@ -1,0 +1,9 @@
+{
+	"name": "factory0bigdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31d12dc8-6e45-4afa-8f53-09e07b0fb935",
+		"tenantId": "e7349413-fd71-4fa4-b45b-5b56e4195a78"
+	}
+}
