@@ -344,7 +344,6 @@
 				"userProperties": [],
 				"typeProperties": {
 					"method": "POST",
-					"url": "",
 					"body": {
 						"value": "{\n    \"pipeline_name\":\"@{pipeline().Pipeline}\",\n    \"pipeline_runid\":\"@{pipeline().RunId}\"\n}",
 						"type": "Expression"
@@ -394,6 +393,8 @@
 				"type": "String"
 			}
 		},
-		"annotations": []
-	}
+		"annotations": [],
+		"lastPublishTime": "2025-11-16T18:59:30Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
 }
